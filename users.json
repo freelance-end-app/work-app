@@ -1,0 +1,29 @@
+{
+    "user": {
+        "first name": "Roman",
+        "last name": "Fedyshyn",
+        "username": "rfedyshyn",
+        "email": "fedyshyn.roma@gmail.com",
+        "picture": "http://google.com",
+        "password": "jhagsdgagsjdh",
+        "isVerified": true
+    },
+    "user": {
+        "first name": "Yura",
+        "last name": "Kovalchuk",
+        "username": "lanzeron",
+        "email": "lanzeron@gmail.com",
+        "picture": "http://google1.com",
+        "password": "csdcsdfsdf",
+        "isVerified": true
+    },
+    "user": {
+        "first name": "Volodymyr",
+        "last name": "Sen",
+        "username": "vsen",
+        "email": "vsen@gmail.com",
+        "picture": "http://google2.com",
+        "password": "dsdfsdfsd",
+        "isVerified": true
+    }
+}
